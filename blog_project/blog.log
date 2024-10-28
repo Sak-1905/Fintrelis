@@ -11,3 +11,6 @@ INFO 2024-10-28 21:20:15,214 autoreload Watching for file changes with StatReloa
 INFO 2024-10-28 21:20:37,920 autoreload Watching for file changes with StatReloader
 INFO 2024-10-28 21:25:03,947 autoreload C:\Users\user\OneDrive\Desktop\Fintrelis\blog_project\blog_project\settings.py changed, reloading.
 INFO 2024-10-28 21:25:05,334 autoreload Watching for file changes with StatReloader
+INFO 2024-10-28 21:25:22,471 basehttp "GET / HTTP/1.1" 200 12068
+WARNING 2024-10-28 21:25:22,730 log Not Found: /favicon.ico
+WARNING 2024-10-28 21:25:22,732 basehttp "GET /favicon.ico HTTP/1.1" 404 2214
